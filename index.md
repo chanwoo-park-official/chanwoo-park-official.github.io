@@ -10,11 +10,11 @@ cover-img: /assets/img/main1.jpeg
 ## About me
 
 
-I'm **Chanwoo Park**. I am a first-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/).
+I am a first-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/).
 
-My current research interests are:
-* Intersection of (Multi-agent) Reinforcement Learning Theory, Game Theory, and Statistics
-* Deep Learning Theory: Self Supervised Learning and Diffusion Model
+My current research interest is multi-agent learning:
+* Intersection of Multi-agent Reinforcement Learning Theory, Game Theory, and Statistics
+* Deep Learning (Theory): Diffusion Model and its aplication to Reinforcement Learning
 * Equivariant Neural Networks (RL, DL)
 
 
