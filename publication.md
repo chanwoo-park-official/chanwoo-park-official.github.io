@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 ---
-
+\* indicates alphabetical order or the equal contribution.
 
 I can also be found from [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=FDG3_JMAAAAJ).
 
@@ -20,7 +20,6 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 <summary>Full papers</summary>
 
 # Research Papers 
-\* indicates alphabetical order or the equal contribution.
 ### Recent Papers
 - **Chanwoo Park**, Kaiqing Zhang, Asuman Ozdaglar, _"local interaction + Markov Game"_, submitted
 - **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"network game + Markov Game"_, submitted
