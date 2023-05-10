@@ -16,10 +16,6 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 
 
 # Full paper lists
-<details>
-<summary>Full papers</summary>
-
-# Research Papers 
 ### Recent Papers
 - **Chanwoo Park**, Kaiqing Zhang, Asuman Ozdaglar, _"local interaction + Markov Game"_, submitted
 - **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"network game + Markov Game"_, submitted
@@ -33,6 +29,3 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 - **Chanwoo Park**, Boram Kim, Taesung Park, _"DeepHisCoM: Deep Learning based Pathway Analysis"_, Briefings in Bioinformatics, 2022
 - Jongmin Lee, **Chanwoo Park**, Ernest K. Ryu, _"A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast"_, NeurIPS 2021 [pdf](https://arxiv.org/abs/2106.10439)
 - **Chanwoo Park**, Nan Jiang, Taesung Park, _“Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes",_ Genomics & Informatics, Vol. 17, No. 4, Dec. 2019. 
-
-
-</details>
