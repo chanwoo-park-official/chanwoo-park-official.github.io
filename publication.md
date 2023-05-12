@@ -8,7 +8,7 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 
 # Selected Papers 
 - **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"network game + Markov Game"_, submitted
-- Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, submitted 
+- Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, submitted, [pdf](https://arxiv.org/abs/2305.06628)
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Accepted for the publication conditioned on minor revision, JMLR, 2022 [pdf](https://arxiv.org/abs/2110.11035)
 - **Chanwoo Park**\*, Sangdoo Yun\*, Sanghyuk Chun, _"A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective"_, NeurIPS 2022 [pdf](https://arxiv.org/abs/2208.09913)
 - **Chanwoo Park**, Boram Kim, Taesung Park, _"DeepHisCoM: Deep Learning based Pathway Analysis"_, Briefings in Bioinformatics, 2022
@@ -19,8 +19,9 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 ### Recent Papers
 - **Chanwoo Park**, Kaiqing Zhang, Asuman Ozdaglar, _"local interaction + Markov Game"_, submitted
 - **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"network game + Markov Game"_, submitted
-- Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, submitted 
+- Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, submitted, [pdf](https://arxiv.org/abs/2305.06628)
 - Dokyoon Yoon, **Chanwoo Park**, Hyeonhoon Lee, _"Diffusion + LLM + RL"_, submitted 
+- Gunmin Lee, Jaeseok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety-Constrained Imitation Learning for Autonomous Systems"_, submitted
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Accepted for the publication conditioned on minor revision, JMLR, 2022 [pdf](https://arxiv.org/abs/2110.11035)
 
 ### Published Paper
