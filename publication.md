@@ -20,7 +20,6 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 - **Chanwoo Park**, Kaiqing Zhang, Asuman Ozdaglar, _"local interaction + Markov Game"_, submitted
 - **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"network game + Markov Game"_, submitted
 - Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, submitted, [pdf](https://arxiv.org/abs/2305.06628)
-- Dokyoon Yoon, **Chanwoo Park**, Hyeonhoon Lee, _"Diffusion + LLM + RL"_, submitted 
 - Gunmin Lee, Jaeseok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety-Constrained Imitation Learning for Autonomous Systems"_, submitted
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Accepted for the publication conditioned on minor revision, JMLR, 2022 [pdf](https://arxiv.org/abs/2110.11035)
 
