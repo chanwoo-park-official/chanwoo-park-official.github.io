@@ -15,6 +15,7 @@ title: CV
 <br/>
 
 # Honor and Award (Selected)
+* Siebel Scholars, from Siebel Scholars Foundations, 2023
 * Xianhong Wu Fellowship, from MIT Engineering, 2022
 * Korea Foundation for Advanced Studies, 2022-
 * Simon Marais Mathematics Competition, Pair **1st** Place, Merit Prize, 2020 and Pair **4th** Place, Merit Prize, 2021
@@ -25,6 +26,9 @@ title: CV
 <br/>
 
 # Teaching Experience
+* Reinforcement Learning (MIT)
+  * Fall 2023
+
 * Elementary Mathematics 1, 2, Engineering Mathematics 1 (SNU)
   * Spring 2019, Spring 2020, Spring 2021, Summer 2021, Fall 2021 (Best tutor awards)
 
@@ -40,7 +44,7 @@ title: CV
   * Teaching Assistant for preparing IMO, Summer 2021
 
 * [Private Note](https://privatenote.co.kr/) 
-  * Internet-based teaching about Mathematics Olympiad
+  * Internet-based teaching about the Mathematics Olympiad
  
 * [AI BOOSTCAMP](https://boostcamp.connect.or.kr/) 
   * Training courses for Deep Learning with Computer Vision, Spring 2022, Fall 2022
