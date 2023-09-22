@@ -19,8 +19,6 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 ### Recent Papers
 - **Chanwoo Park**, Xiangyu Liu, Asuman Ozdaglar, Kaiqing Zhang _"LLM...(will post arxiv soon)"_, submitted
 - **Chanwoo Park**, Kaiqing Zhang, Asuman Ozdaglar, _"local interaction + Markov Game"_, submitted
-- **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"Multi-Player Zero-Sum Markov Games with Networked Separable Interactions"_, submitted, [pdf](https://arxiv.org/abs/2307.09470)
-- Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, submitted, [pdf](https://arxiv.org/abs/2305.06628)
 - Gunmin Lee, Jaeseok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety-Constrained Imitation Learning for Autonomous Systems"_, submitted
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Accepted for the publication conditioned on minor revision, JMLR, 2022 [pdf](https://arxiv.org/abs/2110.11035)
 
