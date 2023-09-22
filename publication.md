@@ -7,8 +7,8 @@ title: Publication
 I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=FDG3_JMAAAAJ).
 
 # Selected Papers 
-- **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"Multi-Player Zero-Sum Markov Games with Networked Separable Interactions"_, submitted, [pdf](https://arxiv.org/abs/2307.09470)
-- Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, submitted, (Oral (3 out of all submissions) in Duality Principles for Modern ML, ICML 2023),  [pdf](https://arxiv.org/abs/2305.06628)
+- **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"Multi-Player Zero-Sum Markov Games with Networked Separable Interactions"_, NeurIPS 2023, [pdf](https://arxiv.org/abs/2307.09470)
+- Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, NeurIPS 2023, (Oral (3 out of all submissions) in Duality Principles for Modern ML, ICML 2023),  [pdf](https://arxiv.org/abs/2305.06628)
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Accepted for the publication conditioned on minor revision, JMLR, 2022 [pdf](https://arxiv.org/abs/2110.11035)
 - **Chanwoo Park**\*, Sangdoo Yun\*, Sanghyuk Chun, _"A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective"_, NeurIPS 2022 [pdf](https://arxiv.org/abs/2208.09913)
 - **Chanwoo Park**, Boram Kim, Taesung Park, _"DeepHisCoM: Deep Learning based Pathway Analysis"_, Briefings in Bioinformatics, 2022
@@ -17,6 +17,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 
 # Full paper lists
 ### Recent Papers
+- **Chanwoo Park**, Xiangyu Liu, Asuman Ozdaglar, Kaiqing Zhang _"LLM...(will post arxiv soon)"_, submitted
 - **Chanwoo Park**, Kaiqing Zhang, Asuman Ozdaglar, _"local interaction + Markov Game"_, submitted
 - **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"Multi-Player Zero-Sum Markov Games with Networked Separable Interactions"_, submitted, [pdf](https://arxiv.org/abs/2307.09470)
 - Jaeyeon Kim\*, Asuman Ozdaglar\*, **Chanwoo Park**\*, Ernest K. Ryu\*, _"Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value"_, submitted, [pdf](https://arxiv.org/abs/2305.06628)
