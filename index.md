@@ -24,7 +24,7 @@ I have held a certification in Korean actuary since 2018.
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I like to talk about the theory or application of deep learning (diffusion model, prompt engineering...) and (multi-agent) reinforcement learning. Feel free to email me (cpark97 at mit.edu). We are actively researching several areas.
 
 ### Mentee
-[Jaeyeon Kim](https://sites.google.com/snu.ac.kr/jaeyeonkim): 2022-
+[Jaeyeon Kim](https://sites.google.com/snu.ac.kr/jaeyeonkim) (SNU): 2022-
 
 
 ## News
