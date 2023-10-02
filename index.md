@@ -23,6 +23,10 @@ I have held a certification in Korean actuary since 2018.
 
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I like to talk about the theory or application of deep learning (diffusion model, prompt engineering...) and (multi-agent) reinforcement learning. Feel free to email me (cpark97 at mit.edu). We are actively researching several areas.
 
+# Mentee
+[Jaeyeon Kim](https://sites.google.com/snu.ac.kr/jaeyeonkim): 2022-
+
+
 ## News
 * **September 2023:** I am honored to be selected as [Siebel Scholars](https://www.businesswire.com/news/home/20230919861208/en/Siebel-Scholars-Foundation-Announces-Class-of-2024) Recipient.
 * **September 2023:** Papers on [Markov Network Games](https://arxiv.org/abs/2307.09470) and [H-duality](https://arxiv.org/abs/2305.06628) are accepted at **NeurIPS 2023**. 
