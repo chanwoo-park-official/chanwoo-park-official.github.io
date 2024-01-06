@@ -4,7 +4,7 @@ title: CV
 ---
 
 <br/>
-
+[Full version](https://www.overleaf.com/read/zsjqfxpqvfhg#55c16c)
 
 # Education
 ### Massachusetts Institute of Technology, 2022 - 
@@ -15,9 +15,10 @@ title: CV
 <br/>
 
 # Honor and Award (Selected)
-* Siebel Scholars, from Siebel Scholars Foundations, 2023
-* Xianhong Wu Fellowship, from MIT Engineering, 2022
-* Korea Foundation for Advanced Studies, 2022-
+* A top reviewer, NeurIPS 2023 
+* Siebel Scholars, from Siebel Scholars Foundations, 2023-2024
+* Xianhong Wu Fellowship, from MIT Engineering, 2022-2023
+* Korea Foundation for Advanced Studies Scholarship, 2022-
 * Simon Marais Mathematics Competition, Pair **1st** Place, Merit Prize, 2020 and Pair **4th** Place, Merit Prize, 2021
 * Best Student Self-Governing Research Award, from Seoul National University, 2021
 * Korea Actuary, from Financial Supervisory Service, 2018
