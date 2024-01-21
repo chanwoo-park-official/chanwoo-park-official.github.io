@@ -7,9 +7,11 @@ title: CV
 [Full version](https://www.overleaf.com/read/zsjqfxpqvfhg#55c16c)
 
 # Education
-### Massachusetts Institute of Technology, 2022 - 
+### Massachusetts Institute of Technology, Feb 2024 - 
 #### Ph.D. student in EECS and LIDS.
-### Seoul National University, 2016 to 2022
+### Massachusetts Institute of Technology, Aug 2022 - Feb 2024
+#### M.S. in EECS.
+### Seoul National University, Mar 2016 to Aug 2022
 #### B.S. in Statistics and Mathematics (Summa Cum Laude)
 ### Seoul Science High School, 2013 to 2015
 <br/>
