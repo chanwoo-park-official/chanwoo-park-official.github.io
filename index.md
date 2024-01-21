@@ -30,6 +30,7 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 
 ## News
+* **February 2024** I got a master's degree! 
 * **November 2023:** I am honored to be selected as a top reviewer in NeurIPS 2023.
 * **September 2023:** I am honored to be selected as [Siebel Scholars](https://www.businesswire.com/news/home/20230919861208/en/Siebel-Scholars-Foundation-Announces-Class-of-2024) Recipient.
 * **September 2023:** Papers on [Markov Network Games](https://arxiv.org/abs/2307.09470) and [H-duality](https://arxiv.org/abs/2305.06628) are accepted at **NeurIPS 2023**. 
