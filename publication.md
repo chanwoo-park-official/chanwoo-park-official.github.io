@@ -8,9 +8,12 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 
 # Full paper lists
 ### Preprints
+- **Chanwoo Park**\*, Xiangyu Liu\*, Asuman Ozdaglar, KAiqing Zhang, _"Do LLM Agents Have Regret?A Case Study in Online Learning and Games"_, Submitted.
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Accepted for the publication conditioned on minor revision, JMLR, 2022 [pdf](https://arxiv.org/abs/2110.11035)
 - Jaeyeon Kim, **Chanwoo Park**,  Asuman Ozdaglar, Jelena Diakonikolas, Ernest K. Ryu\*, _"Mirror Duality in Convex Optimization"_, [pdf](https://arxiv.org/abs/2311.17296)
 - Minyoung Hwang, Luca Weihs, **Chanwoo Park**, Kimin Lee, Aniruddha Kembhavi, Kiana Ehsani, _"Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences"_, [pdf](https://arxiv.org/abs/2312.09337)
+- Gunmin Lee, Jae Seok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety
+Constrained Imitation Learning for Autonomous Systems"_, Submitted.
  
 ### Published Paper
 - **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"Multi-Player Zero-Sum Markov Games with Networked Separable Interactions"_, NeurIPS 2023, [pdf](https://arxiv.org/abs/2307.09470)
