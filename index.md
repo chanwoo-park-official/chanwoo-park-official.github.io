@@ -30,11 +30,11 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 
 ## News
+* **February 2024**: A paper on [Personalized-RLHF](https://arxiv.org/abs/2312.09337) is acceppted at **CVPR 2024**. I contributed by providing efficient RLHF with groupwise comparison, and its theoretical analysis. Also, a paper on [Inequality-to-optimal-method](https://arxiv.org/abs/2110.11035) is accepted at JMLR. This work was done when I was an undergraduate intern at SNU. 
 * **February 2024** I got a master's degree! 
 * **November 2023:** I am honored to be selected as a top reviewer in NeurIPS 2023.
 * **September 2023:** I am honored to be selected as [Siebel Scholars](https://www.businesswire.com/news/home/20230919861208/en/Siebel-Scholars-Foundation-Announces-Class-of-2024) Recipient.
 * **September 2023:** Papers on [Markov Network Games](https://arxiv.org/abs/2307.09470) and [H-duality](https://arxiv.org/abs/2305.06628) are accepted at **NeurIPS 2023**. 
-* **July 2023:** Paper on a [H-duality](https://arxiv.org/abs/2305.06628) accepted as an oral presentation (3 out of all submissions) in Duality Principles for Modern ML, ICML 2023.
 * **September 2022:** Paper on a [Loss function perspective of mixed sample data augmentation](https://arxiv.org/abs/2208.09913) accepted at **NeurIPS 2022**. This work was done when I was an intern at NAVER AI Lab. I got **NeurIPS travel awards**!
 * **September 2022:** I started my PhD at MIT! I also got a Xianhong Wu Fellowship from MIT.   
 
