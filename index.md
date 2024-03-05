@@ -30,6 +30,7 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 
 ## News
+* **March 2024**: A paper on [LLM-no-regret](https://chanwoo-park-official.github.io) has been accepted for a short oral presentation for [ICLR 2024 AGI Workshop: How Far Are We From AGI](https://agiworkshop.github.io). See yall in Vienna. 
 * **February 2024**: A paper on [Personalized-RLHF](https://arxiv.org/abs/2312.09337) is acceppted at **CVPR 2024**. I contributed by providing efficient RLHF with groupwise comparison, and its theoretical analysis. Also, a paper on [Inequality-to-optimal-method](https://arxiv.org/abs/2110.11035) is accepted at JMLR. This work was done when I was an undergraduate intern at SNU. 
 * **February 2024** I got a master's degree! 
 * **November 2023:** I am honored to be selected as a top reviewer in NeurIPS 2023.
