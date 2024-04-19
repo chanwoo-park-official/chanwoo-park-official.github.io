@@ -14,7 +14,7 @@ I am a second-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](h
 
 My current research interest is multi-agent learning:
 * LLM Theory (including provable super-human AI, alignment problem, etc..), Intersection of Multi-agent Reinforcement Learning and Game Theory
-* DL/RL (Theory): Diffusion Model, trajectory generation problem, multi-agent rl
+* DL/RL (Theory): Multi-agent Reinforcement Learning (with Game Theory), Diffusion Model, trajectory generation problem. 
 * Blockchain and DeFi system.
 
 Feel free to reach me! I actively discuss various topics with folks! I am open to both collaborating/advising students (UROP students, not restricted to MIT and SNU), so please don't hesitate to reach out if you're excited about these topics and would like to work together!
@@ -30,7 +30,7 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 
 ## News
-* **March 2024**: A paper on [LLM-no-regret](https://chanwoo-park-official.github.io) has been accepted for a short oral presentation for [ICLR 2024 AGI Workshop: How Far Are We From AGI](https://agiworkshop.github.io). See yall in Vienna. 
+* **March 2024**: A paper on [LLM-no-regret](https://chanwoo-park-official.github.io) has been accepted for an oral presentation for [ICLR 2024 AGI Workshop: How Far Are We From AGI](https://agiworkshop.github.io). See yall in Vienna. 
 * **February 2024**: A paper on [Personalized-RLHF](https://arxiv.org/abs/2312.09337) is acceppted at **CVPR 2024**. I contributed by providing efficient RLHF with groupwise comparison, and its theoretical analysis. Also, a paper on [Inequality-to-optimal-method](https://arxiv.org/abs/2110.11035) is accepted at JMLR. This work was done when I was an undergraduate intern at SNU. 
 * **February 2024** I got a master's degree! 
 * **November 2023:** I am honored to be selected as a top reviewer in NeurIPS 2023.
