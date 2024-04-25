@@ -4,7 +4,6 @@ title: CV
 ---
 
 <br/>
-[Full version](https://www.overleaf.com/read/zsjqfxpqvfhg#55c16c)
 
 # Education
 ### Massachusetts Institute of Technology, Feb 2024 - 
