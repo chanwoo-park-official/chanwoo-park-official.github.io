@@ -26,7 +26,7 @@ I have held a certification in Korean actuary since 2018.
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to email me (cpark97 at mit.edu) to join ML-theory-Korea. We are actively researching several areas.
 
 ### Mentee
-[Jaeyeon Kim]([https://sites.google.com/snu.ac.kr/jaeyeonkim](https://jaeyeonkim01.github.io/)) (SNU, Currently Harvard CS): 2022-2023. Now, he is my great co-worker. 
+[Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): 2022-2023. Now, he is my great co-worker. 
 
 
 ## News
