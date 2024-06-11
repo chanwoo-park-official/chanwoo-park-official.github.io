@@ -16,6 +16,7 @@ title: CV
 <br/>
 
 # Honor and Award (Selected)
+* Takeda Fellowship, from Takeda Pharmaceutical Company, 2024-2025
 * A top reviewer, NeurIPS 2023 
 * Siebel Scholars, from Siebel Scholars Foundations, 2023-2024
 * Xianhong Wu Fellowship, from MIT Engineering, 2022-2023
