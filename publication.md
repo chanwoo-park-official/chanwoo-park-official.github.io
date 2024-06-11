@@ -8,8 +8,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 
 # Full paper lists
 ### Preprints
-- **Chanwoo Park**\*, Xiangyu Liu\*, Asuman Ozdaglar, Kaiqing Zhang, _"Do LLM Agents Have Regret? A Case Study in Online Learning and Games"_, [pdf](https://arxiv.org/abs/2403.16843).
-- **Chanwoo Park**, et. al., _"Principled RLHF with Diverse Feedback via Personalization and Preference Aggregation"_, Submitted.
+- **Chanwoo Park**\*, Xiangyu Liu\*, Asuman Ozdaglar, Kaiqing Zhang, _"Do LLM Agents Have Regret? A Case Study in Online Learning and Games"_, [pdf](https://arxiv.org/abs/2403.16843), (Oral in How Far Are We From AGI, ICLR 2024)
+- **Chanwoo Park**, Mingyang Liu, Dingwen Kong, Kaiqing Zhang, Asuman Ozdaglar, _"RLHF with Diverse Feedback via Personalization and Preference Aggregation"_, Submitted.
 - Yubin Kim, **Chawoo Park**, Hyewon Jeong, Yik Siu Chan, Xuhai Xu, Daniel McDuff, Marzyeh Ghassemi, Cynthia Breazeal, Hae Won Park, _"Adaptive Collaboration Strategy for LLMs in Medical Decision Making"_, Submitted.
 - Jaeyeon Kim, **Chanwoo Park**,  Asuman Ozdaglar, Jelena Diakonikolas, Ernest K. Ryu, _"Mirror Duality in Convex Optimization"_, [pdf](https://arxiv.org/abs/2311.17296)
 - Gunmin Lee, Jae Seok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety
