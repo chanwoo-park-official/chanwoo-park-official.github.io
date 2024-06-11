@@ -30,6 +30,7 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 
 ## News
+* **September 2024**: I am honored to be selected as Takeda Fellowship Recipient, which supports students conducting research at the intersection of artificial intelligence and health. 
 * **March 2024**: A paper on [LLM-no-regret](https://chanwoo-park-official.github.io) has been accepted for an oral presentation for [ICLR 2024 AGI Workshop: How Far Are We From AGI](https://agiworkshop.github.io). See yall in Vienna. 
 * **February 2024**: A paper on [Personalized-RLHF](https://arxiv.org/abs/2312.09337) is acceppted at **CVPR 2024**. I contributed by providing efficient RLHF with groupwise comparison, and its theoretical analysis. Also, a paper on [Inequality-to-optimal-method](https://arxiv.org/abs/2110.11035) is accepted at JMLR. This work was done when I was an undergraduate intern at SNU. 
 * **February 2024** I got a master's degree! 
