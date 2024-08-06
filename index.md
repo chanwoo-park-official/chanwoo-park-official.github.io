@@ -10,11 +10,10 @@ cover-img: /assets/img/main1.jpeg
 ## About me
 
 
-I am a second-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/).
+I am a second-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/). 
 
 My current research interest is multi-agent learning:
-* LLM Theory (including provable super-human AI, alignment problem, etc..), Intersection of Multi-agent Reinforcement Learning and Game Theory
-* DL/RL (Theory): Multi-agent Reinforcement Learning (with Game Theory), Diffusion Model, trajectory generation problem. 
+* (Multi-agent) LLM Theory (including provable super-human AI, alignment problem, etc..), Intersection of Multi-agent RL, Game Theory, and genAI.
 * Blockchain and DeFi system.
 
 Feel free to reach me! I actively discuss various topics with folks! I am open to both collaborating/advising students (UROP students, not restricted to MIT and SNU), so please don't hesitate to reach out if you're excited about these topics and would like to work together!
@@ -26,7 +25,8 @@ I have held a certification in Korean actuary since 2018.
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to email me (cpark97 at mit.edu) to join ML-theory-Korea. We are actively researching several areas.
 
 ### Mentee
-[Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): 2022-2023. Now, he is my great co-worker. 
+[Valentio Iversion](https://ca.linkedin.com/in/valentio-iverson) (University of Waterloo): June 2024 - . Working on LLM Theory
+[Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): Oct 2022 - Oct 2023. Worked on Optimization Theory ([H-duality](https://arxiv.org/abs/2305.06628)). Now, he is my great co-worker. 
 
 
 ## News
