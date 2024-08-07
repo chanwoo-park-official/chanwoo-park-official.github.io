@@ -17,9 +17,7 @@ My current research interest is multi-agent learning:
 
 Feel free to reach me! I actively discuss various topics with folks! I am open to collaboration (but not advising currently) so please don't hesitate to reach out if you're excited about these topics and would like to work together! 
 
-**I love games!!!! Life itself is a game.**
-
-I worked with Prof. [Taesung Park](http://bibs.snu.ac.kr/) and [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) at Seoul National University. Also, I did a research internship in [NAVER AI Lab](https://clova.ai/ko/research/research-area-detail.html?id=0), advised by [Sangdoo Yun](https://sangdooyun.github.io/) and [Sanghyuk Chun](https://sanghyukchun.github.io/home/). I researched Deep Learning Theory with Computer Vision. 
+**I love [games](https://en.wikipedia.org/wiki/Game_theory)!!!! Life itself is a [game](https://a16z.com/games/) :) **
 
 I have held a certification in Korean actuary since 2018.
 
