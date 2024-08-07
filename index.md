@@ -17,7 +17,7 @@ My current research interest is multi-agent learning:
 
 Feel free to reach me! I actively discuss various topics with folks! I am open to collaboration (but not advising currently) so please don't hesitate to reach out if you're excited about these topics and would like to work together! 
 
-**I love [games](https://en.wikipedia.org/wiki/Game_theory)!!!! Life itself is a [game](https://a16z.com/games/) :) **
+**I love [games](https://en.wikipedia.org/wiki/Game_theory)!!!! Life itself is a [game](https://a16z.com/games/) :)**
 
 I have held a certification in Korean actuary since 2018.
 
