@@ -9,7 +9,8 @@ cover-img: /assets/img/main1.jpeg
 
 ## About me
 
-I am a second-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/). 
+I am a third-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/). 
+My research experience includes previous work with [Amazon AGI](https://www.amazon.science/) and [NAVER AI](https://clova.ai/en/research/research-areas.html) (industry), as well as with the [Ryu Optimization Group](https://ernestryu.com/) and the [Bioinformatics Group](http://bibs.snu.ac.kr/) (academia).
 
 My current research interest is multi-agent learning:
 * (Multi-agent) LLM Theory (including provable super-human AI, alignment problem, etc..), Intersection of Multi-agent RL, Game Theory, and genAI.
@@ -26,7 +27,6 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 ### Mentee
 * [Valentio Iversion](https://ca.linkedin.com/in/valentio-iverson) (University of Waterloo): June 2024 - . Working on LLM Theory
 * [Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): Oct 2022 - Oct 2023. Worked on Optimization Theory ([H-duality](https://arxiv.org/abs/2305.06628)). Now, he is my great co-worker. 
-
 
 ## News
 * **September 2024**: I am honored to be selected as Takeda Fellowship Recipient, which supports students conducting research at the intersection of artificial intelligence and health. 
