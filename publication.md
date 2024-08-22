@@ -14,7 +14,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 - Jaeyeon Kim, **Chanwoo Park**,  Asuman Ozdaglar, Jelena Diakonikolas, Ernest K. Ryu, _"Mirror Duality in Convex Optimization"_, [pdf](https://arxiv.org/abs/2311.17296)
 - Gunmin Lee, Jae Seok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety
 Constrained Imitation Learning for Autonomous Systems"_, Submitted.
- 
+- Hyunin Lee, **Chanwoo Park**, David Abel, Ming Jin, Javad Lavaei, Somayeh Sojoudi, _"A Black Swan Hypothesis: the Role of Human Perception in Unchanging Environments"_, Submitted. [pdf](https://chanwoo-park-official.github.io/)
+
 ### Published Paper
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Journal of Machine Learning (JMLR) 2024 [pdf](https://arxiv.org/abs/2110.11035)
 - Minyoung Hwang, Luca Weihs, **Chanwoo Park**, Kimin Lee, Aniruddha Kembhavi, Kiana Ehsani, _"Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences"_, CVPR 2024, [pdf](https://arxiv.org/abs/2312.09337)
