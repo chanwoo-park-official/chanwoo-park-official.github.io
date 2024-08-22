@@ -16,7 +16,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 Constrained Imitation Learning for Autonomous Systems"_, Submitted.
 - Hyunin Lee, **Chanwoo Park**, David Abel, Ming Jin, Javad Lavaei, Somayeh Sojoudi, _"A Black Swan Hypothesis: the Role of Human Perception in Unchanging Environments"_, Submitted. [pdf](https://chanwoo-park-official.github.io/)
 
-### Published Paper
+### Published Papers
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Journal of Machine Learning (JMLR) 2024 [pdf](https://arxiv.org/abs/2110.11035)
 - Minyoung Hwang, Luca Weihs, **Chanwoo Park**, Kimin Lee, Aniruddha Kembhavi, Kiana Ehsani, _"Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences"_, CVPR 2024, [pdf](https://arxiv.org/abs/2312.09337)
 - **Chanwoo Park**\*, Kaiqing Zhang\*, Asuman Ozdaglar, _"Multi-Player Zero-Sum Markov Games with Networked Separable Interactions"_, NeurIPS 2023, [pdf](https://arxiv.org/abs/2307.09470)
@@ -26,3 +26,7 @@ Constrained Imitation Learning for Autonomous Systems"_, Submitted.
 - **Chanwoo Park**, Boram Kim, Taesung Park, _"DeepHisCoM: Deep Learning based Pathway Analysis"_, Briefings in Bioinformatics, 2022
 - Jongmin Lee, **Chanwoo Park**, Ernest K. Ryu, _"A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast"_, NeurIPS 2021 [pdf](https://arxiv.org/abs/2106.10439)
 - **Chanwoo Park**, Nan Jiang, Taesung Park, _“Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes",_ Genomics & Informatics, Vol. 17, No. 4, Dec. 2019. 
+
+
+### Working Papers
+Multi-agent Large Models, Medical LLM, LLM Theory, Agent Theory, LLM for Long Horizon. Available upon Requests. 
