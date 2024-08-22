@@ -27,6 +27,3 @@ Constrained Imitation Learning for Autonomous Systems"_, Submitted.
 - Jongmin Lee, **Chanwoo Park**, Ernest K. Ryu, _"A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast"_, NeurIPS 2021 [pdf](https://arxiv.org/abs/2106.10439)
 - **Chanwoo Park**, Nan Jiang, Taesung Park, _“Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes",_ Genomics & Informatics, Vol. 17, No. 4, Dec. 2019. 
 
-
-### Working Papers
-Multi-agent Large Models, Medical LLM, LLM Theory, Agent Theory, LLM for Long Horizon. Available upon Requests. 
