@@ -9,7 +9,7 @@ cover-img: /assets/img/main1.jpeg
 
 ## About me
 
-I am a third-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/). 
+I am a third-year Ph.D. candidate at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/). 
 My research experience includes previous work with [Amazon AGI](https://www.amazon.science/) and [NAVER AI](https://clova.ai/en/research/research-areas.html) (industry), as well as with the [Ryu Optimization Group](https://ernestryu.com/) and the [Bioinformatics Group](http://bibs.snu.ac.kr/) (academia).
 
 My current research interest is multi-agent learning:
@@ -26,11 +26,15 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 ### Mentee
 * [Valentio Iversion](https://ca.linkedin.com/in/valentio-iverson) (University of Waterloo): June 2024 - . Working on LLM Theory
+
+### Former Mentee
 * [Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): Oct 2022 - Oct 2023. Worked on Optimization Theory ([H-duality](https://arxiv.org/abs/2305.06628)). Now, he is my great co-worker. 
 
 ## News
+* **October 2024**: Now I am a Ph.D. Candidate yay! 
+* **October 2024**: A paper on [Adaptive-Multi-Agent-for-MedAI](https://openreview.net/forum?id=EKdk4vxKO4) has been accepted for an oral presentation for **NeurIPS 2024**. 
 * **September 2024**: I am honored to be selected as Takeda Fellowship Recipient, which supports students conducting research at the intersection of artificial intelligence and health. 
-* **March 2024**: A paper on [LLM-no-regret](https://chanwoo-park-official.github.io) has been accepted for an oral presentation for [ICLR 2024 AGI Workshop: How Far Are We From AGI](https://agiworkshop.github.io). See yall in Vienna. 
+* **March 2024**: A paper on [LLM-no-regret]([https://chanwoo-park-official.github.io](https://arxiv.org/abs/2403.16843)) has been accepted for an oral presentation for **ICLR 2024 AGI Workshop: How Far Are We From AGI**. See yall in Vienna. 
 * **February 2024**: A paper on [Personalized-RLHF](https://arxiv.org/abs/2312.09337) is acceppted at **CVPR 2024**. I contributed by providing efficient RLHF with groupwise comparison, and its theoretical analysis. Also, a paper on [Inequality-to-optimal-method](https://arxiv.org/abs/2110.11035) is accepted at JMLR. This work was done when I was an undergraduate intern at SNU. 
 * **February 2024** I got a master's degree! 
 * **November 2023:** I am honored to be selected as a top reviewer in NeurIPS 2023.
