@@ -8,6 +8,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 
 # Full paper lists
 ### Preprints
+- **Chanwoo Park**, Seungju Han, Xingzhi Guo, Asuman Ozdaglar, Kaiqing Zhang, Joo-Kyung Kim, _"MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning"_, Submitted, [pdf](https://arxiv.org/abs/2502.18439)
 - **Chanwoo Park**, Mingyang Liu, Dingwen Kong, Kaiqing Zhang, Asuman Ozdaglar, _"RLHF with Diverse Feedback via Personalization and Preference Aggregation"_, Submitted.
 - Jaeyeon Kim, **Chanwoo Park**,  Asuman Ozdaglar, Jelena Diakonikolas, Ernest K. Ryu, _"Mirror Duality in Convex Optimization"_, [pdf](https://arxiv.org/abs/2311.17296)
 - Gunmin Lee, Jae Seok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety
