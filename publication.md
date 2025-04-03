@@ -17,7 +17,7 @@ Constrained Imitation Learning for Autonomous Systems"_, Submitted.
 
 ### Published Papers
 - **Chanwoo Park**\*, Xiangyu Liu\*, Asuman Ozdaglar, Kaiqing Zhang, _"Do LLM Agents Have Regret? A Case Study in Online Learning and Games"_, [pdf](https://arxiv.org/abs/2403.16843),, ICLR 2025, Oral presentation at How Far Are We From AGI, ICLR 2024, Invited Talk at INFORMS 2024
-- Hyunin Lee, **Chanwoo Park**, David Abel, Ming Jin, Javad Lavaei, Somayeh Sojoudi, _"A Black Swan Hypothesis: the Role of Human Perception in Unchanging Environments"_, ICLR 2025. [pdf](https://chanwoo-park-official.github.io/)
+- Hyunin Lee, **Chanwoo Park**, David Abel, Ming Jin, Javad Lavaei, Somayeh Sojoudi, _"A Black Swan Hypothesis: the Role of Human Perception in Unchanging Environments"_, ICLR 2025. [pdf](https://chanwoo-park-official.github.io/), Oral Presentation at Financial AI, ICLR 2025
 - Yubin Kim, **Chawoo Park**, Hyewon Jeong, Yik Siu Chan, Xuhai Xu, Daniel McDuff, Marzyeh Ghassemi, Cynthia Breazeal, Hae Won Park, _"Adaptive Collaboration Strategy for LLMs in Medical Decision Making"_, NeurIPS 2024, Oral, [pdf](https://openreview.net/forum?id=EKdk4vxKO4)
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Journal of Machine Learning (JMLR) 2024 [pdf](https://arxiv.org/abs/2110.11035)
 - Minyoung Hwang, Luca Weihs, **Chanwoo Park**, Kimin Lee, Aniruddha Kembhavi, Kiana Ehsani, _"Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences"_, CVPR 2024, [pdf](https://arxiv.org/abs/2312.09337)
