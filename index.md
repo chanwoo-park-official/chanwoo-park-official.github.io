@@ -14,7 +14,6 @@ My research experience includes previous work with [Amazon AGI](https://www.amaz
 
 My current research interest is multi-agent learning:
 * (Multi-agent) LLM Theory (including provable super-human AI, alignment problem, etc..), Intersection of Multi-agent RL, Game Theory, and genAI.
-* Blockchain and DeFi system.
 
 Feel free to reach me! I actively discuss various topics with folks! I am open to collaboration (but not advising currently), so please don't hesitate to reach out if you're excited about these topics and would like to work together! 
 
@@ -25,6 +24,7 @@ I have held a certification in Korean actuary since 2018.
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to email me (cpark97 at mit.edu) to join ML-theory-Korea. We are actively researching several areas.
 
 ### Mentee
+* Hwangyu Jeong (Seoul National University): March 2025 - . Working on MDM Theory
 * [Valentio Iversion](https://ca.linkedin.com/in/valentio-iverson) (University of Waterloo): June 2024 - . Working on LLM Theory
 
 ### Former Mentee
