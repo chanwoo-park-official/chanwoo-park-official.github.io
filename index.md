@@ -13,13 +13,13 @@ I am a Ph.D. candidate at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu
 My research experience includes previous work with [Amazon AGI](https://www.amazon.science/) and [NAVER AI](https://clova.ai/en/research/research-areas.html) (industry), as well as with the [Ryu Optimization Group](https://ernestryu.com/) and the [Bioinformatics Group](http://bibs.snu.ac.kr/) (academia).
 
 My current research interest is multi-agent learning:
-* (Multi-agent) LLM Theory (including provable super-human AI, alignment problem, etc..), Intersection of Multi-agent RL, Game Theory, and genAI.
+* Single/Multi-agent Sequential Decision Making LLMs Training with provable guarantees.-- It should combine game theory, sequential decision-making theory, and understandings of the recent advances in VLM. 
 
 Feel free to reach me! I actively discuss various topics with folks! I am open to collaboration (but not advising currently), so please don't hesitate to reach out if you're excited about these topics and would like to work together! 
 
 **I love [games](https://en.wikipedia.org/wiki/Game_theory)!!!! Life itself is a [game](https://a16z.com/games/) :)**
 
-I have held a certification in Korean actuary since 2018.
+I have held a certification as a Korean actuary since 2018.
 
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to email me (cpark97 at mit.edu) to join ML-theory-Korea. We are actively researching several areas.
 
@@ -31,6 +31,7 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 * [Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): Oct 2022 - Oct 2023. Worked on Optimization Theory ([H-duality](https://arxiv.org/abs/2305.06628)). Now, he is my great co-worker. 
 
 ## News
+* **May 2025**: [Multi-agent RL for LLMs](https://arxiv.org/abs/2502.18439) paper got accepted to ACL 2025 as a main paper.
 * **Feb 2025**: Check out the [Multi-agent RL for LLMs](https://arxiv.org/abs/2502.18439) paper. I’m really enthusiastic about its framework, which enables the training of multi-agent LLM systems.
 * **Jan 2025**: [LLM-no-regret](https://arxiv.org/abs/2403.16843) and [Blackswan-Hypothesis](https://arxiv.org/abs/2407.18422) are accepted for **ICLR 2025**. [Blackswan-Hypothesis](https://arxiv.org/abs/2407.18422) is also accepted for an **oral** paper for **ICLR 2025 Financial AI Workshop**. 
 * **October 2024**: Now, I am a Ph.D. Candidate yay! 
