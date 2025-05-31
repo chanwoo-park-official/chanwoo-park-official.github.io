@@ -8,11 +8,14 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 
 # Full paper lists
 ### Preprints
-- Hyunin Lee, **Chanwoo Park**, Somayeh Sojoudi, Negar Mehr, _"A Prospect Theoretic Rationality: Loss Aversion Can Accelerate Reinforcement Learning"_, Submitted
-- Yubin Kim, Hyewon Jeong, **Chanwoo Park**, MingYu Lu, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park, _"Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare"_, Submitted
-- Zae Myung Kim, **Chanwoo Park**, Vipul Raheja, Dongyeop Kang, _"Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models"_, Submitted. [pdf](https://arxiv.org/abs/2504.20157)
+
+
 - **Chanwoo Park**, Mingyang Liu, Dingwen Kong, Kaiqing Zhang, Asuman Ozdaglar, _"RLHF with Diverse Feedback via Personalization and Preference Aggregation"_, Submitted. [pdf](https://arxiv.org/abs/2405.00254)
+- Hyunin Lee, **Chanwoo Park**, Somayeh Sojoudi, Negar Mehr, _"A Prospect Theoretic Rationality: Loss Aversion Can Accelerate Reinforcement Learning"_, Submitted
 - Jaeyeon Kim, **Chanwoo Park**,  Asuman Ozdaglar, Jelena Diakonikolas, Ernest K. Ryu, _"Mirror Duality in Convex Optimization"_, Submitted. [pdf](https://arxiv.org/abs/2311.17296)
+- Zae Myung Kim, **Chanwoo Park**, Vipul Raheja, Dongyeop Kang, _"Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models"_, Submitted. [pdf](https://arxiv.org/abs/2504.20157)
+- Yubin Kim, Hyewon Jeong, **Chanwoo Park**, MingYu Lu, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park, _"Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare"_, Submitted
+- Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene Park, Shuyue Stella Li, **Chanwoo Park**, Shiyun Xiong, MingYu Lu, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park, _"BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum"_, Submitted. [pdf](https://arxiv.org/abs/2505.21757)
 - Gunmin Lee, Jae Seok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety Constrained Imitation Learning for Autonomous Systems"_, Submitted.
 
 
