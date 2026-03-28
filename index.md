@@ -31,15 +31,13 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 * [Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): Oct 2022 - Oct 2023. Worked on Optimization Theory ([H-duality](https://arxiv.org/abs/2305.06628)). Now, he is my great co-worker. 
 
 ## News
-* **September 2025**: I am honored to be selected as a Amazon AI Research Innovation Fellow.
+* **Sep 2025**: I am honored to be selected as a [Amazon AI Research Innovation Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 * **June 2025**: [BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum](https://arxiv.org/abs/2505.21757) paper got accepted to EMNLP 2025 as a finding. 
 * **May 2025**: [Multi-agent RL for LLMs](https://arxiv.org/abs/2502.18439) paper got accepted to ACL 2025 as a main paper, and also has been accepted for an oral presentation for **ICML 2025 Workshop: Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures**. 
 * **Feb 2025**: Check out the [Multi-agent RL for LLMs](https://arxiv.org/abs/2502.18439) paper. I’m really enthusiastic about its framework, which enables the training of multi-agent LLM systems.
-* **Jan 2025**: [LLM-no-regret](https://arxiv.org/abs/2403.16843) and [Blackswan-Hypothesis](https://arxiv.org/abs/2407.18422) are accepted for **ICLR 2025**. [Blackswan-Hypothesis](https://arxiv.org/abs/2407.18422) is also accepted for an **oral** paper for **ICLR 2025 Financial AI Workshop**. 
-* **October 2024**: Now, I am a Ph.D. Candidate yay! 
+* **Jan 2025**: [LLM-no-regret](https://arxiv.org/abs/2403.16843) and [Blackswan-Hypothesis](https://arxiv.org/abs/2407.18422) are accepted for **ICLR 2025**. [Blackswan-Hypothesis](https://arxiv.org/abs/2407.18422) is also accepted for an **oral** paper for **ICLR 2025 Financial AI Workshop**. [LLM-no-regret](https://arxiv.org/abs/2403.16843) has been accepted for an oral presentation for **ICLR 2024 AGI Workshop: How Far Are We From AGI**.
 * **October 2024**: A paper on [Adaptive-Multi-Agent-for-MedAI](https://openreview.net/forum?id=EKdk4vxKO4) has been accepted for an oral presentation for **NeurIPS 2024**. 
 * **September 2024**: I am honored to be selected as a Takeda Fellowship Recipient, which supports students conducting research at the intersection of artificial intelligence and health. 
-* **March 2024**: A paper on [LLM-no-regret](https://arxiv.org/abs/2403.16843) has been accepted for an oral presentation for **ICLR 2024 AGI Workshop: How Far Are We From AGI**. See y'all in Vienna. 
 * **February 2024**: A paper on [Personalized-RLHF](https://arxiv.org/abs/2312.09337) is acceppted at **CVPR 2024**. I contributed by providing efficient RLHF with groupwise comparison and its theoretical analysis. Also, a paper on [Inequality-to-optimal-method](https://arxiv.org/abs/2110.11035) is accepted at JMLR. This work was done when I was an undergraduate intern at SNU. 
 * **February 2024** I got a master's degree! 
 * **November 2023:** I am honored to be selected as a top reviewer in NeurIPS 2023.
