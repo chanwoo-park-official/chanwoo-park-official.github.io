@@ -6,7 +6,7 @@ title: CV
 <br/>
 
 # Education
-### Massachusetts Institute of Technology, Aug 2022 - May 2026 (or Aug 2026) 
+### Massachusetts Institute of Technology, Aug 2022 - 
 #### Ph.D. student in EECS and LIDS.
 ### Massachusetts Institute of Technology, Aug 2022 - Feb 2024
 #### M.S. in EECS.
@@ -16,6 +16,7 @@ title: CV
 <br/>
 
 # Honors and Awards (Selected)
+* Amazon AI Fellowship, 2025-2027
 * Takeda Fellowship from Takeda Pharmaceutical Company, 2024-2025
 * A top reviewer, NeurIPS 2023 
 * Siebel Scholars, from Siebel Scholars Foundations, 2023-2024
