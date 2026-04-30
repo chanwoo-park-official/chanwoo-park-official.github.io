@@ -15,7 +15,7 @@ My research experience includes previous work with [Amazon AGI](https://www.amaz
 My current research interest is multi-agent learning:
 * Single/Multi-agent Sequential Decision Making LLMs Training with provable guarantees.-- It should combine game theory, sequential decision-making theory, and understandings of the recent advances in VLM. 
 
-Feel free to reach me! I actively discuss various topics with folks! I am open to collaboration (but not advising currently), so please don't hesitate to reach out if you're excited about these topics and would like to work together! 
+Feel free to reach me! I actively discuss various topics with folks! I am open to collaboration (but not advising currently), so please don't hesitate to reach out if you're excited about these topics and would like to work together! I’m currently exploring several concrete research directions and can offer hands-on guidance within those topics.
 
 **I love [games](https://en.wikipedia.org/wiki/Game_theory)!!!! Life itself is a [game](https://a16z.com/games/) :)**
 
@@ -25,12 +25,15 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 ### Mentee
 * Hwangyu Jeong (Seoul National University): March 2025 - . Working on MDM Theory
-* [Valentio Iversion](https://ca.linkedin.com/in/valentio-iverson) (University of Waterloo): June 2024 - . Working on LLM Theory
+* Jaewoong Jeong (KAIST): April 2026 - . Working on AI alignmnet. 
 
 ### Former Mentee
-* [Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): Oct 2022 - Oct 2023. Worked on Optimization Theory ([H-duality](https://arxiv.org/abs/2305.06628)). Now, he is my great co-worker. 
+* [Jaeyeon Kim](https://jaeyeonkim01.github.io/) (SNU, Currently Harvard CS): Oct 2022 - Oct 2023. Worked on Optimization Theory ([H-duality](https://arxiv.org/abs/2305.06628)).
+* [Valentio Iversion](https://ca.linkedin.com/in/valentio-iverson) (University of Waterloo, Currently MIT EECS): June 2024 - June 2025. Working on LLM Theory
+
 
 ## News
+* **April 2026**: [Regret Based LLM Training](https://arxiv.org/abs/2511.04393) and [Provable Collaborative LoRA](https://arxiv.org/abs/2602.07218) have been accepted to ICML 2026 in Seoul—excited to share and connect there! Also, [Regret Based LLM Training](https://arxiv.org/abs/2511.04393) has been selected for an **oral** presentation at the [ICLR Workshop on AI for Mechanism Design and Strategic Decision Making](https://alimama-tech.github.io/aims-2026/). 
 * **Sep 2025**: I am honored to be selected as a [Amazon AI Research Innovation Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 * **June 2025**: [BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum](https://arxiv.org/abs/2505.21757) paper got accepted to EMNLP 2025 as a finding. 
 * **May 2025**: [Multi-agent RL for LLMs](https://arxiv.org/abs/2502.18439) paper got accepted to ACL 2025 as a main paper, and also has been accepted for an oral presentation for **ICML 2025 Workshop: Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures**. 
