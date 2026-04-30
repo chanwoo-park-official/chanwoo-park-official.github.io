@@ -10,12 +10,12 @@ cover-img: /assets/img/main1.jpeg
 ## About me
 
 I am a Ph.D. candidate at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). I am closely working with [Kaiqing Zhang](https://kzhang66.github.io/). 
-My research experience includes previous work with [Amazon AGI](https://www.amazon.science/) and [NAVER AI](https://clova.ai/en/research/research-areas.html) (industry), as well as with the [Ryu Optimization Group](https://ernestryu.com/) and the [Bioinformatics Group](http://bibs.snu.ac.kr/) (academia).
+My research experience includes previous work with [Amazon AGI](https://www.amazon.science/) and [NAVER AI](https://clova.ai/en/research/research-areas.html) (industry), as well as with the [Ryu Optimization Group](https://ernestryu.com/) and the [Bioinformatics Group](http://bibs.snu.ac.kr/) (academia). Also I did an internship as a quant researcher at [Citadel](https://www.citadel.com). 
 
 My current research interest is multi-agent learning:
 * Single/Multi-agent Sequential Decision Making LLMs Training with provable guarantees.-- It should combine game theory, sequential decision-making theory, and understandings of the recent advances in VLM. 
 
-Feel free to reach me! I actively discuss various topics with folks! I am open to collaboration (but not advising currently), so please don't hesitate to reach out if you're excited about these topics and would like to work together! I’m currently exploring several concrete research directions and can offer hands-on guidance within those topics.
+Feel free to reach me! I actively discuss various topics with folks! I am open for mentoring, so please don't hesitate to reach out if you're excited about these topics and would like to work together! I’m currently exploring several concrete research directions and can offer hands-on guidance within those topics.
 
 **I love [games](https://en.wikipedia.org/wiki/Game_theory)!!!! Life itself is a [game](https://a16z.com/games/) :)**
 
