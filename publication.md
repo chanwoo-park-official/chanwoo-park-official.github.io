@@ -24,6 +24,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 
 
 ### Published Papers
+- **Chanwoo Park**, Ziyang Chen, Asuman Ozdaglar, Kaiqing Zhang, _"Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach"_, ICML 2026. [pdf](https://arxiv.org/abs/2511.04393)
 - **Chanwoo Park**, Seungju Han, Xingzhi Guo, Asuman Ozdaglar, Kaiqing Zhang, Joo-Kyung Kim, _"MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning"_, ACL 2025, main paper, [pdf](https://arxiv.org/abs/2502.18439)
 - **Chanwoo Park**\*, Xiangyu Liu\*, Asuman Ozdaglar, Kaiqing Zhang, _"Do LLM Agents Have Regret? A Case Study in Online Learning and Games"_, [pdf](https://arxiv.org/abs/2403.16843), ICLR 2025, Oral presentation at How Far Are We From AGI, ICLR 2024, Invited Talk at INFORMS 2024
 - Gagik Magakyan, Amirhossein Reisizadeh, **Chanwoo Park**, Pablo A. Parrilo, Asuman Ozdaglar, _"Collaborative and Efficient Fine-tuning: Leveraging Task Similarity"_, ICML 2026. [pdf](https://arxiv.org/abs/2602.07218)
