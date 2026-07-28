@@ -11,17 +11,23 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 
 
 - **Chanwoo Park**, Mingyang Liu, Dingwen Kong, Kaiqing Zhang, Asuman Ozdaglar, _"RLHF with Diverse Feedback via Personalization and Preference Aggregation"_, Submitted. [pdf](https://arxiv.org/abs/2405.00254)
+- Seungju Han, Konwoo Kim, **Chanwoo Park**, Benjamin Newman, Suhas Kotha, Jaehun Jung, James Zou, Yejin Choi, _"Synthetic Mixed Training: Scaling Parametric Knowledge Acquisition Beyond RAG"_, arXiv preprint arXiv:2603.23562. [pdf](https://arxiv.org/abs/2603.23562)
+- Yubin Kim, **Chanwoo Park**, Taehan Kim, Eugene Park, Samuel Schmidgall, Salman Rahman, Chunjong Park, Cynthia Breazeal, Xin Liu, Hamid Palangi, Hae Won Park, Daniel McDuff, _"TeamBench: Evaluating Agent Coordination under Enforced Role Separation"_, arXiv preprint arXiv:2605.07073. [pdf](https://arxiv.org/abs/2605.07073)
+- Hwangyu Jeong, **Chanwoo Park**, _"Masked Diffusion Training Induces Resampling-like Carry Representations in Addition"_, ICML 2026 Workshop on Mechanistic Interpretability, (C. Park - corresponding author). [pdf](https://openreview.net/forum?id=ccwqmShreV)
 - Hyunin Lee, **Chanwoo Park**, Somayeh Sojoudi, Negar Mehr, _"A Prospect Theoretic Rationality: Loss Aversion Can Accelerate Reinforcement Learning"_, Submitted
 - Jaeyeon Kim, **Chanwoo Park**,  Asuman Ozdaglar, Jelena Diakonikolas, Ernest K. Ryu, _"Mirror Duality in Convex Optimization"_, Submitted. [pdf](https://arxiv.org/abs/2311.17296)
 - Zae Myung Kim, **Chanwoo Park**, Vipul Raheja, Dongyeop Kang, _"Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models"_, Submitted. [pdf](https://arxiv.org/abs/2504.20157)
 - Yubin Kim, Hyewon Jeong, **Chanwoo Park**, MingYu Lu, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park, _"Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare"_, Submitted
 - Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene Park, Shuyue Stella Li, **Chanwoo Park**, Shiyun Xiong, MingYu Lu, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park, _"BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum"_, Submitted. [pdf](https://arxiv.org/abs/2505.21757)
 - Gunmin Lee, Jae Seok Heo, Dohyeong Kim, Jeongwoo Oh, Minyoung Hwang, **Chanwoo Park**, Kyungjae Lee, Songhwai Oh, _"SafeIL: Safety Constrained Imitation Learning for Autonomous Systems"_, Submitted.
+- MITAIR Initiative, _"Prioritization of Risks from Artificial Intelligence: A Delphi Study of 272 International Experts"_, arXiv preprint arXiv:2606.04490. [pdf](https://arxiv.org/abs/2606.04490)
 
 
 ### Published Papers
 - **Chanwoo Park**, Seungju Han, Xingzhi Guo, Asuman Ozdaglar, Kaiqing Zhang, Joo-Kyung Kim, _"MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning"_, ACL 2025, main paper, [pdf](https://arxiv.org/abs/2502.18439)
 - **Chanwoo Park**\*, Xiangyu Liu\*, Asuman Ozdaglar, Kaiqing Zhang, _"Do LLM Agents Have Regret? A Case Study in Online Learning and Games"_, [pdf](https://arxiv.org/abs/2403.16843), ICLR 2025, Oral presentation at How Far Are We From AGI, ICLR 2024, Invited Talk at INFORMS 2024
+- Gagik Magakyan, Amirhossein Reisizadeh, **Chanwoo Park**, Pablo A. Parrilo, Asuman Ozdaglar, _"Collaborative and Efficient Fine-tuning: Leveraging Task Similarity"_, ICML 2026. [pdf](https://arxiv.org/abs/2602.07218)
+- Yubin Kim, Ken Gu, **Chanwoo Park**, Chunjong Park, Samuel Schmidgall, A. Ali Heydari, Yao Yan, Zhihan Zhang, et al., _"Capable Language Models Can Outgrow the Benefits of Collaboration"_, Nature Machine Intelligence, 2026. Earlier preprint title: _"Towards a Science of Scaling Agent Systems"_. [pdf](https://www.nature.com/articles/s42256-026-01268-y)
 - Hyunin Lee, **Chanwoo Park**, David Abel, Ming Jin, Javad Lavaei, Somayeh Sojoudi, _"A Black Swan Hypothesis: the Role of Human Perception in Unchanging Environments"_, ICLR 2025. [pdf](https://chanwoo-park-official.github.io/), Oral Presentation at Financial AI, ICLR 2025
 - Yubin Kim, **Chawoo Park**, Hyewon Jeong, Yik Siu Chan, Xuhai Xu, Daniel McDuff, Marzyeh Ghassemi, Cynthia Breazeal, Hae Won Park, _"Adaptive Collaboration Strategy for LLMs in Medical Decision Making"_, NeurIPS 2024, Oral, [pdf](https://openreview.net/forum?id=EKdk4vxKO4)
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Journal of Machine Learning (JMLR) 2024 [pdf](https://arxiv.org/abs/2110.11035)
@@ -33,4 +39,3 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 - **Chanwoo Park**, Boram Kim, Taesung Park, _"DeepHisCoM: Deep Learning based Pathway Analysis"_, Briefings in Bioinformatics, 2022 [pdf](https://academic.oup.com/bib/article/23/5/bbac171/6590446)
 - Jongmin Lee, **Chanwoo Park**, Ernest K. Ryu, _"A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast"_, NeurIPS 2021 [pdf](https://arxiv.org/abs/2106.10439)
 - **Chanwoo Park**, Nan Jiang, Taesung Park, _“Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes",_ Genomics & Informatics, Vol. 17, No. 4, Dec. 2019. [pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC6944048/)
-
