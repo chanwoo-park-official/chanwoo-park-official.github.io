@@ -10,6 +10,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?hl=
 ### Preprints
 
 
+- **Chanwoo Park**, Asuman Ozdaglar, _"Training with (Swap) Regret Loss in a Single-Layer Self-Attention Model: A Case Study on the Probability Simplex"_, arXiv preprint arXiv:2607.23333. [pdf](https://arxiv.org/abs/2607.23333)
 - **Chanwoo Park**, Mingyang Liu, Dingwen Kong, Kaiqing Zhang, Asuman Ozdaglar, _"RLHF with Diverse Feedback via Personalization and Preference Aggregation"_, Submitted. [pdf](https://arxiv.org/abs/2405.00254)
 - Seungju Han, Konwoo Kim, **Chanwoo Park**, Benjamin Newman, Suhas Kotha, Jaehun Jung, James Zou, Yejin Choi, _"Synthetic Mixed Training: Scaling Parametric Knowledge Acquisition Beyond RAG"_, arXiv preprint arXiv:2603.23562. [pdf](https://arxiv.org/abs/2603.23562)
 - Yubin Kim, **Chanwoo Park**, Taehan Kim, Eugene Park, Samuel Schmidgall, Salman Rahman, Chunjong Park, Cynthia Breazeal, Xin Liu, Hamid Palangi, Hae Won Park, Daniel McDuff, _"TeamBench: Evaluating Agent Coordination under Enforced Role Separation"_, arXiv preprint arXiv:2605.07073. [pdf](https://arxiv.org/abs/2605.07073)
