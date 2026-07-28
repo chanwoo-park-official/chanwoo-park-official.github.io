@@ -17,8 +17,6 @@ My current research interest is multi-agent learning:
 
 Feel free to reach me! I actively discuss various topics with folks! I am open for mentoring, so please don't hesitate to reach out if you're excited about these topics and would like to work together! I’m currently exploring several concrete research directions and can offer hands-on guidance within those topics.
 
-**I love [games](https://en.wikipedia.org/wiki/Game_theory)!!!! Life itself is a [game](https://a16z.com/games/) :)**
-
 I have held a certification as a Korean actuary since 2018.
 
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to email me (cpark97 at mit.edu) to join ML-theory-Korea. We are actively researching several areas.
@@ -33,11 +31,12 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 
 ## News
+* **July 2026**: Check out my new preprint, [Training with (Swap) Regret Loss in a Single-Layer Self-Attention Model: A Case Study on the Probability Simplex](https://arxiv.org/abs/2607.23333).
+* **May 2026**: [Towards a Science of Scaling Agent Systems](https://www.nature.com/articles/s42256-026-01268-y) got accepted to **Nature Machine Intelligence**.
 * **April 2026**: [Regret Based LLM Training](https://arxiv.org/abs/2511.04393) and [Provable Collaborative LoRA](https://arxiv.org/abs/2602.07218) have been accepted to ICML 2026 in Seoul—excited to share and connect there! Also, [Regret Based LLM Training](https://arxiv.org/abs/2511.04393) has been selected for an **oral** presentation at the [ICLR Workshop on AI for Mechanism Design and Strategic Decision Making](https://alimama-tech.github.io/aims-2026/). 
 * **Sep 2025**: I am honored to be selected as a [Amazon AI Research Innovation Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 * **June 2025**: [BehaviorSFT](https://arxiv.org/abs/2505.21757) paper got accepted to EMNLP 2025 as a finding. 
 * **May 2025**: [Multi-agent RL for LLMs](https://arxiv.org/abs/2502.18439) paper got accepted to ACL 2025 as a main paper, and also has been accepted for an oral presentation for **ICML 2025 Workshop: Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures**. 
-* **Feb 2025**: Check out the [Multi-agent RL for LLMs](https://arxiv.org/abs/2502.18439) paper. I’m really enthusiastic about its framework, which enables the training of multi-agent LLM systems.
 * **Jan 2025**: [LLM-no-regret](https://arxiv.org/abs/2403.16843) and [Blackswan-Hypothesis](https://arxiv.org/abs/2407.18422) are accepted for **ICLR 2025**. [Blackswan-Hypothesis](https://arxiv.org/abs/2407.18422) is also accepted for an **oral** paper for **ICLR 2025 Financial AI Workshop**. [LLM-no-regret](https://arxiv.org/abs/2403.16843) has been accepted for an oral presentation for **ICLR 2024 AGI Workshop: How Far Are We From AGI**.
 * **October 2024**: A paper on [Adaptive-Multi-Agent-for-MedAI](https://openreview.net/forum?id=EKdk4vxKO4) has been accepted for an oral presentation for **NeurIPS 2024**. 
 * **September 2024**: I am honored to be selected as a Takeda Fellowship Recipient, which supports students conducting research at the intersection of artificial intelligence and health. 
