@@ -31,7 +31,7 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. F
 
 
 ## News
-* **Sep 2026**: Check out my new preprint, [Training with (Swap) Regret Loss in a Single-Layer Self-Attention Model: A Case Study on the Probability Simplex](https://arxiv.org/abs/2607.23333) which is accepted for **NeurIPS 2026**. 
+* **Sep 2026**: Check out my new preprint, [(Swap) Regret Loss Theory for Transformers and LLMs](https://arxiv.org/abs/2607.23333) which is accepted for **NeurIPS 2026**. 
 * **May 2026**: [Towards a Science of Scaling Agent Systems](https://www.nature.com/articles/s42256-026-01268-y) got accepted to **Nature Machine Intelligence**.
 * **April 2026**: [Regret Based LLM Training](https://arxiv.org/abs/2511.04393) and [Provable Collaborative LoRA](https://arxiv.org/abs/2602.07218) have been accepted to ICML 2026 in Seoul—excited to share and connect there! Also, [Regret Based LLM Training](https://arxiv.org/abs/2511.04393) has been selected for **oral** presentations at the [ICLR 2026 Workshop on AI for Mechanism Design and Strategic Decision Making](https://alimama-tech.github.io/aims-2026/) and [NeurIPS 2026 Workshop on Foundations of LLM Post-Training in Changing Environments](https://www.fllmpt-work.shop/). 
 * **Sep 2025**: I am honored to be selected as a [Amazon AI Research Innovation Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
